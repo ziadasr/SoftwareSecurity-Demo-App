@@ -45,7 +45,7 @@ def run_portal():
         if required_role and current_user.role == "Teacher":
             return True
         
-        
+
         if required_role and current_user.role != required_role:
             logger.warning(
                 f"Access denied. User '{current_user.email}' (Role: {current_user.role}) attempted to access '{required_role}' feature.",
@@ -76,12 +76,12 @@ def run_portal():
             # Menu for logged-in users (role-specific)
             if current_user.role == "Student":
                 # Student Menu
-                print("\n[3] View Student Content (Student Role Only)")
+                # print("\n[3] View Student Content (Student Role Only)")=================================
                 print("[4] View My Subjects")
                 print("[5] Logout")
             elif current_user.role == "Teacher":
                 # Teacher Menu
-                print("\n[3] View Teacher Content (Teacher Role Only)")
+                # print("\n[3] View Teacher Content (Teacher Role Only)") ============================
                 print("[4] Assign Subject to Student")
                 print("[5] View All Student Emails")
                 print("[6] Logout")

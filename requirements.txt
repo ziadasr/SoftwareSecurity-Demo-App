@@ -1,0 +1,17 @@
+# University Portal Security Project - Dependencies
+
+# Standard library modules are included by default (sqlite3, tkinter, getpass, re, os, sys, time, etc.)
+# No external third-party packages are required for this project
+
+# The following modules are used but are part of Python's standard library:
+# - sqlite3: Database functionality
+# - tkinter: GUI framework
+# - getpass: Secure password input
+# - re: Regular expressions for validation
+# - os: Operating system utilities
+# - sys: System-specific parameters
+# - time: Time and date functions
+# - logging: Logging framework
+# - hashlib: Cryptographic hashing
+# - secrets: Secure random generation
+# - json: JSON data format

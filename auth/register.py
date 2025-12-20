@@ -13,7 +13,7 @@ def register_user(name, email, password, role):
             raise ValueError("A user with this email already exists.")
 
         # 3. Secure Password Hashing
-        # bcrypt handles salting internally, providing a strong, adaptive hash.
+        # bcrypt handles salting internally, providing a strong, adaptive hash
         salt = bcrypt.gensalt(rounds=BCRYPT_ROUNDS) #returns smth like b'$2b$12$KIXQJ5j6K9u1h8H6jFhOe.'
         password_bytes = password.encode('utf-8') #convert to binary "MyPassword123!" → b'MyPassword123!'
         # Store as string for DB

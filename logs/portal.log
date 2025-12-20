@@ -33,3 +33,158 @@
 {"timestamp": "2025-12-12T23:25:05.006958", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "teacher_1765574704@university.edu", "role": "Teacher"}
 {"timestamp": "2025-12-12T23:25:05.219954", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "persist_student_1765574705@university.edu", "role": "Student"}
 {"timestamp": "2025-12-12T23:25:05.435190", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "persist_teacher_1765574705@university.edu", "role": "Teacher"}
+{"timestamp": "2025-12-12T23:48:59.804053", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "ZiadAsr@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-12T23:49:42.374290", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "temp@gmail.com"}
+{"timestamp": "2025-12-12T23:49:51.799479", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "temp@gmail.com"}
+{"timestamp": "2025-12-12T23:50:21.498712", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "Temp@gmail.com"}
+{"timestamp": "2025-12-12T23:50:58.654018", "level": "INFO", "module": "login", "message": "Session token generated successfully.", "user_email": "ZiadAsr@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-12T23:50:58.654368", "level": "INFO", "module": "login", "message": "Successful login.", "user_email": "ZiadAsr@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-12T23:53:04.555320", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "ZiadAsr@gmail.com"}
+{"timestamp": "2025-12-12T23:53:08.684389", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "ZiadAsr@gmail.comv"}
+{"timestamp": "2025-12-12T23:53:19.529938", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "ZiadAsr@gmail.com"}
+{"timestamp": "2025-12-12T23:53:57.075811", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "ZiadAsr@gmail.com"}
+{"timestamp": "2025-12-12T23:54:33.177045", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "Temp1@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-12T23:54:50.494428", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "temp1@gmail.com"}
+{"timestamp": "2025-12-12T23:55:01.823940", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "Temp1@gmail.com"}
+{"timestamp": "2025-12-12T23:55:12.035042", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "Temp1@gmail.com"}
+{"timestamp": "2025-12-12T23:55:16.315895", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "Temp1@gmail.com"}
+{"timestamp": "2025-12-12T23:55:19.458052", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "Temp1@gmail.com"}
+{"timestamp": "2025-12-12T23:55:22.043920", "level": "WARNING", "module": "user", "message": "Account locked due to 5 failed attempts.", "user_email": "Temp1@gmail.com"}
+{"timestamp": "2025-12-12T23:55:22.048189", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "Temp1@gmail.com"}
+{"timestamp": "2025-12-12T23:55:54.545197", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "Temp2@gmail.com", "role": "Student"}
+{"timestamp": "2025-12-12T23:56:12.446946", "level": "INFO", "module": "login", "message": "Session token generated successfully.", "user_email": "Temp2@gmail.com", "role": "Student"}
+{"timestamp": "2025-12-12T23:56:12.447149", "level": "INFO", "module": "login", "message": "Successful login.", "user_email": "Temp2@gmail.com", "role": "Student"}
+{"timestamp": "2025-12-12T23:56:30.354764", "level": "INFO", "module": "gui", "message": "Student content accessed", "user_email": "Temp2@gmail.com", "role": "Student"}
+{"timestamp": "2025-12-12T23:56:41.134115", "level": "INFO", "module": "gui", "message": "User logged out.", "user_email": "Temp2@gmail.com"}
+{"timestamp": "2025-12-12T23:57:08.425242", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "Temp3@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-12T23:57:19.444311", "level": "INFO", "module": "login", "message": "Session token generated successfully.", "user_email": "Temp3@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-12T23:57:19.444709", "level": "INFO", "module": "login", "message": "Successful login.", "user_email": "Temp3@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-12T23:57:24.787727", "level": "INFO", "module": "gui", "message": "Teacher content accessed", "user_email": "Temp3@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-12T23:58:00.369361", "level": "INFO", "module": "user", "message": "Subject assigned successfully."}
+{"timestamp": "2025-12-12T23:58:05.461149", "level": "INFO", "module": "gui", "message": "Teacher content accessed", "user_email": "Temp3@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-13T00:00:13.503956", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "Temp2@gmail.com"}
+{"timestamp": "2025-12-13T00:00:38.603425", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "Temp3@gmail.com"}
+{"timestamp": "2025-12-13T00:01:00.992542", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "Temp3@gmail.com"}
+{"timestamp": "2025-12-13T00:01:34.577691", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "Temp2@gmail.com"}
+{"timestamp": "2025-12-13T00:01:39.337305", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "Temp3@gmail.com"}
+{"timestamp": "2025-12-13T00:02:27.674738", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "Temp10@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-13T00:02:39.319358", "level": "INFO", "module": "login", "message": "Session token generated successfully.", "user_email": "Temp10@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-13T00:02:39.319614", "level": "INFO", "module": "login", "message": "Successful login.", "user_email": "Temp10@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-13T00:02:43.361673", "level": "INFO", "module": "gui", "message": "Teacher content accessed", "user_email": "Temp10@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-13T00:03:07.760415", "level": "INFO", "module": "login", "message": "Session token generated successfully.", "user_email": "Temp10@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-13T00:03:07.760787", "level": "INFO", "module": "login", "message": "Successful login.", "user_email": "Temp10@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-13T00:03:10.768143", "level": "INFO", "module": "main", "message": "Access granted to feature for user.", "user_email": "Temp10@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-13T00:04:23.125340", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "Temp2@gmail.com"}
+{"timestamp": "2025-12-13T00:04:27.851279", "level": "INFO", "module": "login", "message": "Session token generated successfully.", "user_email": "Temp10@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-13T00:04:27.851917", "level": "INFO", "module": "login", "message": "Successful login.", "user_email": "Temp10@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-13T00:04:52.517119", "level": "INFO", "module": "gui", "message": "User logged out.", "user_email": "Temp10@gmail.com"}
+{"timestamp": "2025-12-13T00:06:53.431492", "level": "INFO", "module": "login", "message": "Session token generated successfully.", "user_email": "Temp10@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-13T00:06:53.431839", "level": "INFO", "module": "login", "message": "Successful login.", "user_email": "Temp10@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-13T00:07:07.690711", "level": "INFO", "module": "gui", "message": "Teacher content accessed", "user_email": "Temp10@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-13T00:07:32.014941", "level": "INFO", "module": "gui", "message": "User logged out.", "user_email": "Temp10@gmail.com"}
+{"timestamp": "2025-12-13T01:02:43.365173", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "hashtest_1765580563@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T01:02:43.578021", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "verify_1765580563@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T01:02:43.986763", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "wrong_1765580563@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T01:02:44.405086", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "brutetest_1765580564@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T01:02:44.610638", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "brutetest_1765580564@university.edu"}
+{"timestamp": "2025-12-13T01:02:44.820671", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "brutetest_1765580564@university.edu"}
+{"timestamp": "2025-12-13T01:02:45.023278", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "brutetest_1765580564@university.edu"}
+{"timestamp": "2025-12-13T01:02:45.232064", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "brutetest_1765580564@university.edu"}
+{"timestamp": "2025-12-13T01:02:45.435628", "level": "WARNING", "module": "user", "message": "Account locked due to 5 failed attempts.", "user_email": "brutetest_1765580564@university.edu"}
+{"timestamp": "2025-12-13T01:02:45.438660", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "brutetest_1765580564@university.edu"}
+{"timestamp": "2025-12-13T01:02:45.655396", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "locktest_1765580565@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T01:02:45.861765", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "locktest_1765580565@university.edu"}
+{"timestamp": "2025-12-13T01:02:46.065639", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "locktest_1765580565@university.edu"}
+{"timestamp": "2025-12-13T01:02:46.274361", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "locktest_1765580565@university.edu"}
+{"timestamp": "2025-12-13T01:02:46.492458", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "locktest_1765580565@university.edu"}
+{"timestamp": "2025-12-13T01:02:46.706453", "level": "WARNING", "module": "user", "message": "Account locked due to 5 failed attempts.", "user_email": "locktest_1765580565@university.edu"}
+{"timestamp": "2025-12-13T01:02:46.709671", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "locktest_1765580565@university.edu"}
+{"timestamp": "2025-12-13T01:02:46.925649", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "tokentest_1765580566@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T01:02:47.138377", "level": "INFO", "module": "login", "message": "Session token generated successfully.", "user_email": "tokentest_1765580566@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T01:02:47.138541", "level": "INFO", "module": "login", "message": "Successful login.", "user_email": "tokentest_1765580566@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T01:02:47.348630", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "validtoken_1765580567@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T01:02:47.558964", "level": "INFO", "module": "login", "message": "Session token generated successfully.", "user_email": "validtoken_1765580567@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T01:02:47.559154", "level": "INFO", "module": "login", "message": "Successful login.", "user_email": "validtoken_1765580567@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T01:02:47.562789", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "nonexistent@university.edu"}
+{"timestamp": "2025-12-13T01:02:47.780479", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "enum_1765580567@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T01:02:47.984946", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "enum_1765580567@university.edu"}
+{"timestamp": "2025-12-13T01:02:48.193075", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "enumidentical_1765580567@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T01:02:48.193371", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "nonexistent@test.edu"}
+{"timestamp": "2025-12-13T01:02:48.397290", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "enumidentical_1765580567@university.edu"}
+{"timestamp": "2025-12-13T01:02:48.399479", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "admin@test.com\" OR \"1\"=\"1"}
+{"timestamp": "2025-12-13T01:02:48.401856", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "'; DROP TABLE users; --"}
+{"timestamp": "2025-12-13T01:02:48.621592", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "student_1765580568@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T01:02:48.839944", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "teacher_1765580568@university.edu", "role": "Teacher"}
+{"timestamp": "2025-12-13T01:02:49.063685", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "persist_student_1765580568@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T01:02:49.280174", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "persist_teacher_1765580568@university.edu", "role": "Teacher"}
+{"timestamp": "2025-12-13T14:38:37.905486", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "hashtest_1765629517@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T14:38:38.274667", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "verify_1765629518@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T14:38:38.721043", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "wrong_1765629518@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T14:38:39.169890", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "brutetest_1765629518@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T14:38:39.389082", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "brutetest_1765629518@university.edu"}
+{"timestamp": "2025-12-13T14:38:39.613163", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "brutetest_1765629518@university.edu"}
+{"timestamp": "2025-12-13T14:38:39.870372", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "brutetest_1765629518@university.edu"}
+{"timestamp": "2025-12-13T14:38:40.129157", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "brutetest_1765629518@university.edu"}
+{"timestamp": "2025-12-13T14:38:40.378258", "level": "WARNING", "module": "user", "message": "Account locked due to 5 failed attempts.", "user_email": "brutetest_1765629518@university.edu"}
+{"timestamp": "2025-12-13T14:38:40.383797", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "brutetest_1765629518@university.edu"}
+{"timestamp": "2025-12-13T14:38:40.688812", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "locktest_1765629520@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T14:38:41.001240", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "locktest_1765629520@university.edu"}
+{"timestamp": "2025-12-13T14:38:41.329123", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "locktest_1765629520@university.edu"}
+{"timestamp": "2025-12-13T14:38:41.655946", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "locktest_1765629520@university.edu"}
+{"timestamp": "2025-12-13T14:38:41.944513", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "locktest_1765629520@university.edu"}
+{"timestamp": "2025-12-13T14:38:42.209162", "level": "WARNING", "module": "user", "message": "Account locked due to 5 failed attempts.", "user_email": "locktest_1765629520@university.edu"}
+{"timestamp": "2025-12-13T14:38:42.217431", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "locktest_1765629520@university.edu"}
+{"timestamp": "2025-12-13T14:38:42.550519", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "tokentest_1765629522@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T14:38:42.818874", "level": "INFO", "module": "login", "message": "Session token generated successfully.", "user_email": "tokentest_1765629522@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T14:38:42.822844", "level": "INFO", "module": "login", "message": "Successful login.", "user_email": "tokentest_1765629522@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T14:38:43.093741", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "validtoken_1765629522@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T14:38:43.354710", "level": "INFO", "module": "login", "message": "Session token generated successfully.", "user_email": "validtoken_1765629522@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T14:38:43.357092", "level": "INFO", "module": "login", "message": "Successful login.", "user_email": "validtoken_1765629522@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T14:38:43.368129", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "nonexistent@university.edu"}
+{"timestamp": "2025-12-13T14:38:43.665545", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "enum_1765629523@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T14:38:43.979719", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "enum_1765629523@university.edu"}
+{"timestamp": "2025-12-13T14:38:44.268793", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "enumidentical_1765629523@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T14:38:44.270699", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "nonexistent@test.edu"}
+{"timestamp": "2025-12-13T14:38:44.492253", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "enumidentical_1765629523@university.edu"}
+{"timestamp": "2025-12-13T14:38:44.496038", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "admin@test.com\" OR \"1\"=\"1"}
+{"timestamp": "2025-12-13T14:38:44.502069", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "'; DROP TABLE users; --"}
+{"timestamp": "2025-12-13T14:38:44.762012", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "student_1765629524@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T14:38:44.998789", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "teacher_1765629524@university.edu", "role": "Teacher"}
+{"timestamp": "2025-12-13T14:38:45.240128", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "persist_student_1765629525@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T14:38:45.493186", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "persist_teacher_1765629525@university.edu", "role": "Teacher"}
+{"timestamp": "2025-12-13T15:00:50.355334", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "templec@gmail.com", "role": "Teacher"}
+{"timestamp": "2025-12-13T15:07:33.151426", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "hashtest_1765631252@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T15:07:33.367177", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "verify_1765631253@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T15:07:33.787879", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "wrong_1765631253@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T15:07:34.205410", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "brutetest_1765631253@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T15:07:34.408588", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "brutetest_1765631253@university.edu"}
+{"timestamp": "2025-12-13T15:07:34.612434", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "brutetest_1765631253@university.edu"}
+{"timestamp": "2025-12-13T15:07:34.826099", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "brutetest_1765631253@university.edu"}
+{"timestamp": "2025-12-13T15:07:35.034571", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "brutetest_1765631253@university.edu"}
+{"timestamp": "2025-12-13T15:07:35.241576", "level": "WARNING", "module": "user", "message": "Account locked due to 5 failed attempts.", "user_email": "brutetest_1765631253@university.edu"}
+{"timestamp": "2025-12-13T15:07:35.245491", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "brutetest_1765631253@university.edu"}
+{"timestamp": "2025-12-13T15:07:35.461128", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "locktest_1765631255@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T15:07:35.661102", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "locktest_1765631255@university.edu"}
+{"timestamp": "2025-12-13T15:07:35.866348", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "locktest_1765631255@university.edu"}
+{"timestamp": "2025-12-13T15:07:36.073763", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "locktest_1765631255@university.edu"}
+{"timestamp": "2025-12-13T15:07:36.285615", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "locktest_1765631255@university.edu"}
+{"timestamp": "2025-12-13T15:07:36.490957", "level": "WARNING", "module": "user", "message": "Account locked due to 5 failed attempts.", "user_email": "locktest_1765631255@university.edu"}
+{"timestamp": "2025-12-13T15:07:36.495386", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "locktest_1765631255@university.edu"}
+{"timestamp": "2025-12-13T15:07:36.702487", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "tokentest_1765631256@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T15:07:36.907357", "level": "INFO", "module": "login", "message": "Session token generated successfully.", "user_email": "tokentest_1765631256@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T15:07:36.908375", "level": "INFO", "module": "login", "message": "Successful login.", "user_email": "tokentest_1765631256@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T15:07:37.114004", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "validtoken_1765631256@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T15:07:37.312372", "level": "INFO", "module": "login", "message": "Session token generated successfully.", "user_email": "validtoken_1765631256@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T15:07:37.313359", "level": "INFO", "module": "login", "message": "Successful login.", "user_email": "validtoken_1765631256@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T15:07:37.316954", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "nonexistent@university.edu"}
+{"timestamp": "2025-12-13T15:07:37.521470", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "enum_1765631257@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T15:07:37.720307", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "enum_1765631257@university.edu"}
+{"timestamp": "2025-12-13T15:07:37.923911", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "enumidentical_1765631257@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T15:07:37.925124", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "nonexistent@test.edu"}
+{"timestamp": "2025-12-13T15:07:38.123857", "level": "WARNING", "module": "login", "message": "Password field mentioned, message sanitized.", "user_email": "enumidentical_1765631257@university.edu"}
+{"timestamp": "2025-12-13T15:07:38.126458", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "admin@test.com\" OR \"1\"=\"1"}
+{"timestamp": "2025-12-13T15:07:38.129291", "level": "WARNING", "module": "login", "message": "Login failed: Unknown email.", "user_email": "'; DROP TABLE users; --"}
+{"timestamp": "2025-12-13T15:07:38.334986", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "student_1765631258@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T15:07:38.543970", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "teacher_1765631258@university.edu", "role": "Teacher"}
+{"timestamp": "2025-12-13T15:07:38.748124", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "persist_student_1765631258@university.edu", "role": "Student"}
+{"timestamp": "2025-12-13T15:07:38.948843", "level": "INFO", "module": "user", "message": "New user registered successfully.", "user_email": "persist_teacher_1765631258@university.edu", "role": "Teacher"}
